@@ -2,9 +2,13 @@
 ![Presentación](https://github.com/user-attachments/assets/330b47c5-c128-42ee-9858-047d36ed8eb2)
 
 ## Sobre mi
-- Paginas que sigo 
+## Paginas que sigo 
 - David Pereira
 - ALT Academy
+- animation_basketball
+- HolaMundo
+- Soy Dalto
+- Academia LABDA
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nava-Jopslen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/99_jnay) 
